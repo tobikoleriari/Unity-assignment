@@ -1,0 +1,22 @@
+# Unity-generated files
+.vs/
+.idea/
+.user/
+.userprefs
+*.suo
+*.user
+*.userosscache
+*.sln
+*.csproj
+*.pidb
+*.booproj
+# Build folders
+/Build/
+/Builds/
+/Temp/
+/obj/
+# Uncomment if you have a directory for your Unity-generated project files
+/Library/
+# User-specific files
+/Logs/
+/MemoryCaptures/
